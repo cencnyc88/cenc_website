@@ -1,0 +1,445 @@
+.desktop-1 .logo {
+  background: url('assets/images/Logo.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 2px;
+  bottom: -4px;
+  width: 241.2px;
+  height: 85px;
+}
+.desktop-1 .home-tab {
+  position: relative;
+  margin: 13px 0 14px 0;
+  width: 249px;
+  height: 82px;
+}
+.desktop-1 .events-label {
+  overflow-wrap: break-word;
+  font-family: 'Zen Loop';
+  font-weight: 400;
+  font-size: 48px;
+  color: #FFFFFF;
+}
+.desktop-1 .container-9 {
+  background: #B75B48;
+  position: relative;
+  display: flex;
+  padding: 27px 11.9px 28px 10px;
+  box-sizing: border-box;
+}
+.desktop-1 .projects-label {
+  overflow-wrap: break-word;
+  font-family: 'Zen Loop';
+  font-weight: 400;
+  font-size: 48px;
+  color: #FFFFFF;
+}
+.desktop-1 .container-10 {
+  background: #B75B48;
+  position: relative;
+  margin-right: 2px;
+  display: flex;
+  padding: 27px 0px 28px 0;
+  width: 175px;
+  box-sizing: border-box;
+}
+.desktop-1 .contact-label {
+  margin: 27px 51px 28px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Zen Loop';
+  font-weight: 400;
+  font-size: 48px;
+  color: #FFFFFF;
+}
+.desktop-1 .contact-us-button {
+  overflow-wrap: break-word;
+  font-family: 'JejuHallasan';
+  font-weight: 400;
+  font-size: 20px;
+  color: #46211A;
+}
+.desktop-1 .container-13 {
+  border-radius: 20px;
+  background: #F1D3B2;
+  position: relative;
+  margin: 22px 0;
+  display: flex;
+  padding: 22px 4.6px 23px 0;
+  width: 145px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.desktop-1 .container-14 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.desktop-1 .contact-block {
+  background: #B75B48;
+  position: absolute;
+  right: 198px;
+  bottom: 0px;
+  width: 176px;
+  height: 109px;
+}
+.desktop-1 .clickable-tabs {
+  position: relative;
+  display: flex;
+  box-sizing: border-box;
+}
+.desktop-1 .header {
+  background: #B75B48;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 104px 0 101px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.desktop-1 .body-block {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border: 1px solid #000000;
+  background: #F1D3B2;
+  position: absolute;
+  top: 0px;
+  right: -3px;
+  width: 1440px;
+  height: 7838px;
+}
+.desktop-1 .mission {
+  margin: 114px 21.3px 0 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Zen Antique Soft';
+  font-weight: 400;
+  font-size: 50px;
+  color: #000000;
+}
+.desktop-1 .company-name-cn {
+  margin-bottom: 70px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Zen Antique';
+  font-weight: 400;
+  font-size: 80px;
+  color: #000000;
+}
+.desktop-1 .container {
+  position: relative;
+  margin: 0 27px 11px 27px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-1 .goal-1-script {
+  margin-right: 19.8px;
+  overflow-wrap: break-word;
+  font-family: 'Zen Loop';
+  font-weight: 400;
+  font-size: 45px;
+  color: #DBFF00;
+}
+.desktop-1 .goal-1-quote {
+  margin: 38px 0px 73px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Zen Antique';
+  font-weight: 400;
+  font-size: 60px;
+  color: #000000;
+}
+.desktop-1 .container-7 {
+  border-radius: 50px;
+  background: #E14E2D;
+  position: relative;
+  margin-right: 39px;
+  display: flex;
+  flex-direction: row;
+  padding: 19px 15.2px 22px 25px;
+  box-sizing: border-box;
+}
+.desktop-1 .longevity-symbol {
+  border-radius: 200px;
+  background: url('assets/images/LongevitySymbol.png') 50% / cover no-repeat;
+  margin: 50px 0;
+  width: 400px;
+  height: 400px;
+}
+.desktop-1 .goal-1-container {
+  position: relative;
+  margin: 0 18px 43px 18px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-1 .pheonix-symbol {
+  background: url('assets/images/PheonixSymbol.png') 50% / cover no-repeat;
+  margin: 95px 10px 105px 0;
+  width: 470px;
+  height: 600px;
+}
+.desktop-1 .goal-2-quote {
+  overflow-wrap: break-word;
+  font-family: 'Zen Antique';
+  font-weight: 400;
+  font-size: 50px;
+  color: #000000;
+}
+.desktop-1 .container-6 {
+  border-radius: 50px;
+  background: #E14E2D;
+  position: relative;
+  padding: 61px 26px 91px 26px;
+  width: 720px;
+  box-sizing: border-box;
+}
+.desktop-1 .container-1 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.desktop-1 .goal-2-script {
+  position: absolute;
+  right: 38.9px;
+  bottom: -14px;
+  overflow-wrap: break-word;
+  font-family: 'Zen Loop';
+  font-weight: 400;
+  font-size: 44px;
+  color: #DBFF00;
+}
+.desktop-1 .goal-2-container {
+  position: relative;
+  margin-bottom: 42px;
+  display: flex;
+  align-self: flex-end;
+  box-sizing: border-box;
+}
+.desktop-1 .goal-3-quote {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Zen Antique';
+  font-weight: 400;
+  font-size: 50px;
+  color: #000000;
+}
+.desktop-1 .container-2 {
+  border-radius: 50px;
+  background: #E14E2D;
+  position: relative;
+  margin-right: 59px;
+  display: flex;
+  padding: 26px 30.5px 0 30.5px;
+  width: 720px;
+  height: 600px;
+  box-sizing: border-box;
+}
+.desktop-1 .dragon-symbol {
+  background: url('assets/images/DragonSymbol.png') 50% / cover no-repeat;
+  margin: 86px 0 84px 0;
+  width: 344px;
+  height: 430px;
+}
+.desktop-1 .container-3 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.desktop-1 .goal-3-script {
+  position: absolute;
+  left: 25px;
+  bottom: -30px;
+  overflow-wrap: break-word;
+  font-family: 'Zen Loop';
+  font-weight: 400;
+  font-size: 45px;
+  color: #DBFF00;
+}
+.desktop-1 .goal-3-container {
+  position: relative;
+  margin-bottom: 42px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.desktop-1 .yin-yang-symbol {
+  background: url('assets/images/YinYangSymbol.png') 50% / cover no-repeat;
+  margin: 25px 43px 25px 0;
+  width: 400px;
+  height: 400px;
+}
+.desktop-1 .goal-4-script {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Zen Loop';
+  font-weight: 400;
+  font-size: 45px;
+  color: #DBFF00;
+}
+.desktop-1 .goal-4-quote {
+  position: absolute;
+  left: 25px;
+  top: 28px;
+  overflow-wrap: break-word;
+  font-family: 'Zen Antique';
+  font-weight: 400;
+  font-size: 50px;
+  color: #000000;
+}
+.desktop-1 .container-11 {
+  border-radius: 50px;
+  background: #E14E2D;
+  position: relative;
+  display: flex;
+  padding: 48px 22.3px 45px 22.3px;
+  width: 700px;
+  box-sizing: border-box;
+}
+.desktop-1 .goal-4-container {
+  position: relative;
+  margin: 0 16px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-end;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-1 .body {
+  position: relative;
+  margin-right: 3px;
+  display: flex;
+  flex-direction: column;
+  padding: 30px 85px 5135px 87px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-1 .container-4 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.desktop-1 .founder-name {
+  margin: 0 0 1px 0.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Zen Antique Soft';
+  font-weight: 400;
+  font-size: 30px;
+  color: #000000;
+}
+.desktop-1 .founder-signature {
+  background: url('assets/images/FounderSignature.png') 50% / cover no-repeat;
+  transform: rotate(-6.838deg);
+  width: 148.8px;
+  height: 65.8px;
+}
+.desktop-1 .container-5 {
+  background: url('assets/images/FounderPortrait.png') 50% / cover no-repeat;
+  position: relative;
+  margin-left: 2.1px;
+  display: flex;
+  padding: 68px 62.2px 0 0;
+  width: 475px;
+  height: 580px;
+  box-sizing: border-box;
+}
+.desktop-1 .founder-description {
+  overflow-wrap: break-word;
+  font-family: 'Zen Antique Soft';
+  font-weight: 400;
+  font-size: 30px;
+  color: #000000;
+}
+.desktop-1 .founder-container {
+  margin: 0 1.1px 17px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-1 .contact-us {
+  margin: 0 0 10px 14.9px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Zen Antique Soft';
+  font-weight: 400;
+  font-size: 36px;
+  color: #FFFFFF;
+}
+.desktop-1 .address {
+  margin: 0 91.7px 0 133px;
+  overflow-wrap: break-word;
+  font-family: 'Zen Antique Soft';
+  font-weight: 400;
+  font-size: 35px;
+  color: #FFFFFF;
+}
+.desktop-1 .email {
+  margin: 0 19.4px 10px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Zen Antique Soft';
+  font-weight: 400;
+  font-size: 35px;
+  color: #FFFFFF;
+}
+.desktop-1 .copyright-label {
+  overflow-wrap: break-word;
+  font-family: 'Zen Antique Soft';
+  font-weight: 400;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.desktop-1 .container-8 {
+  background: #46211A;
+  position: relative;
+  display: flex;
+  padding: 0 0 18px 18.7px;
+  width: 1456px;
+  box-sizing: border-box;
+}
+.desktop-1 .container-12 {
+  position: absolute;
+  left: -16px;
+  bottom: 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1456px;
+  height: 227px;
+  box-sizing: border-box;
+}
+.desktop-1 .contact-container {
+  background: #B75B48;
+  position: relative;
+  width: 1440px;
+  height: 245px;
+}
+.desktop-1 .footer {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.desktop-1 {
+  background: #FFFFFF;
+  display: flex;
+  padding-bottom: 244px;
+  width: 1440px;
+  box-sizing: border-box;
+}
