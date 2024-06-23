@@ -127,3 +127,69 @@ body {
   color: yellow
 }
 
+.contact-container {
+  background: #B75B48;
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+  height: 130px;
+  align-items: center;
+}
+
+.container-12 {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 100%;
+  height: 130px;
+}
+
+.contact-us {
+  margin: 0 0 10px 14.9px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Zen Antique Soft';
+  font-weight: 400;
+  font-size: 32px;
+  color: #FFFFFF;
+}
+
+.address {
+  margin: 0 91.7px 0 133px;
+  overflow-wrap: break-word;
+  font-family: 'Zen Antique Soft';
+  font-weight: 400;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+
+.email {
+  margin: 0 19.4px 10px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Zen Antique Soft';
+  font-weight: 400;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+
+.container-8 {
+  background: #46211A;
+  position: absolute;
+  bottom: 0px;
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+
+.copyright-label {
+  overflow-wrap: break-word;
+  font-family: 'Zen Antique Soft';
+  font-weight: 400;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+
