@@ -20,28 +20,26 @@ export default function Navbar() {
             </Link>
         </div>
         <div className="clickable-tabs">
-            {/* <div className="container-14"> */}
-              <div className="container-9">
+              <div className="events-tab">
                 <Link href="/events" className="events-label">
                 EVENTS
                 </Link>
               </div>
-              <div className="container-10">
+              <div className="projects-tab">
                 <Link href="/projects" className="projects-label">
                 PROJECTS
                 </Link>
               </div>
-              {/* <div className=''>
-                <Link className="contact-label">
+              <div className='contact-tab'>
+                <Link href="/contact" className="contact-label">
                 CONTACT US
                 </Link>
-              </div> */}
-              <div className="container-13">
-                <Link href="/signup" className="contact-us-button">
+              </div>
+              <div className="signup-button">
+                <Link href="/signup" className="signup-label">
                     SIGN UP
                 </Link> 
               </div>
-            {/* </div> */}
             {/* <div className="contact-block">
             </div> */}
           </div>

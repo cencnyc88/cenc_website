@@ -13,13 +13,6 @@ body {
   box-sizing: border-box;
 }
 
-.container-14 {
-  position: relative;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  box-sizing: border-box;
-}
 
 .events-label {
   overflow-wrap: break-word;
@@ -62,46 +55,42 @@ body {
   box-sizing: border-box;
 }
 
-.container-9 {
+.events-tab {
   background: #B75B48;
   position: relative;
   align-items: center;
   justify-content: center;
   display: flex;
   align-items: center;
-  /* padding: 27px 11.9px 28px 10px; */
   box-sizing: border-box;
 }
 
-.container-10 {
+.projects-tab {
   background: #B75B48;
   position: relative;
-  /* margin-right: 10px; */
   align-items: center;
   justify-content: center;
   display: flex;
-  /* padding: 27px 0px 32px 0; */
   align-items: center;
   width: 175px;
   box-sizing: border-box;
 }
 
-.container-13 {
+.signup-button {
   border-radius: 20px;
   background: #F1D3B2;
+  position: relative;
   align-items: center;
   justify-content: center;
-  position: relative;
   margin: 22px 0;
   display: flex;
-  /* padding: 22px 4.6px 23px 0; */
   padding: 20px;
   width: 145px;
   height: fit-content;
   box-sizing: border-box;
 }
 
-.contact-us-button {
+.signup-label {
   overflow-wrap: break-word;
   font-family: 'JejuHallasan';
   font-weight: 400;
@@ -110,14 +99,30 @@ body {
   text-decoration: none;
 }
 
-.container-13:hover {
+.contact-tab {
+  background: #B75B48;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  box-sizing: border-box;
+}
+
+.contact-label {
+  overflow-wrap: break-word;
+  font-family: 'Zen Loop';
+  font-weight: 400;
+  font-size: 24px;
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+.signup-button:hover {
   background-color: burlywood;
 }
 
-.events-label:hover {
+.events-label:hover, .projects-label:hover, .contact-label:hover {
   color: yellow
 }
 
-.projects-label:hover {
-  color: yellow;
-}
