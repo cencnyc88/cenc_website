@@ -7,7 +7,7 @@ export default function page() {
   const images = [
       "/congestionPricing.jpg",
       "/Lawyer.jpg",
-      "/DAOffice.jpg",
+      "/DAOffice",
       "/MOCA.jpg",
     ];
 
