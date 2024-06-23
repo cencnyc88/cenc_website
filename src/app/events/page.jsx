@@ -7,7 +7,7 @@ export default function page() {
   const images = [
       "/congestionPricing.jpg",
       "/Lawyer.jpg",
-      "/DAOffice",
+      "/DAOffice.jpg",
       "/MOCA.jpg",
     ];
 
@@ -37,7 +37,7 @@ export default function page() {
     };
 
     const tabChange= (nextTab) => {
-      setTab(nextTab)};
+      setTab(nextTab)
       setCurrentIndex(0);
     };
 
