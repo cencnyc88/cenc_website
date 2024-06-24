@@ -1,0 +1,62 @@
+.body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.company-name-cn {
+    font-family: 'Zen-Antique';
+    font-size: 48px;
+    padding: 10px;
+    font-weight: 1000;
+    color:maroon;
+}
+
+.mission {
+    padding: 10px;
+    font-size: 24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 1000;
+    font-style: italic;
+    color: brown;
+}
+
+.goal-1-container, .goal-2-container, .goal-3-container, .goal-4-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 80%;
+    padding-bottom: 30px;
+}
+
+.container-7, .container-6, .container-3, .container-11 {
+    display: flex;
+    align-items: center;
+    background-color: #E14E2D;
+    border-radius: 50px;
+    width: 50%;
+}
+
+.goal-1-script, .goal-2-script, .goal-3-script, .goal-4-script{
+    overflow-wrap: break-word;
+    color: #DBFF00;
+    font-family: 'Zen Loop';
+    font-size: 36px;
+    padding: 30px;
+}
+
+.goal-1-quote, .goal-3-quote{ 
+    width: 10px;
+    color: black;
+    font-family: 'Zen Antique';
+    font-size: 48px;
+    padding-right: 60px;
+}
+
+.goal-2-quote, .goal-4-quote {
+    width: 10px;
+    color: black;
+    font-family: 'Zen Antique';
+    font-size: 48px;
+    padding: 40px;
+}
