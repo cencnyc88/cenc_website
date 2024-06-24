@@ -22,7 +22,7 @@ export default function page() {
       'Congestion Pricing Posters',
       'Visisted DA office to learn about law & order',
       'Guest Speaker Event with Edward J. Cuccia',
-      'Visisted the Museum of Chinese in America'
+      'Visited the Museum of Chinese in America'
     ];
 
     const [currentIndex, setCurrentIndex] = useState(0);
