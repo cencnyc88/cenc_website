@@ -1,85 +1,65 @@
-.container {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 20px;
-  background-color: #f0f0f0;
-  box-shadow: 0 0 10px rgba(245, 244, 244, 0.1);
+.title-label {
+  font-size: 48px;
+  padding-left: 20px;
+  font-weight: 750;
+  color:maroon;
 }
 
-.header {
-  text-align: center;
-  margin-bottom: 20px;
+nav {
+  padding-bottom: 10px;
 }
 
-.header h1 {
-  font-size: 24px;
-  margin-bottom: 10px;
+.line-break {
+  width: 98%;
+  border-color: maroon;
+  box-shadow: 0 0 5px 5px tan;
 }
 
-.header p {
-  font-size: 18px;
-  color: #c4ee09;
-}
-
-.main {
-  padding: 20px;
-}
-
-.tabs {
+.event-container {
   display: flex;
-  justify-content: center;
-  margin-bottom: 20px;
-}
-
-.tab {
-  background: none;
-  border: 1px solid #0070f3;
-  color: #0070f3;
-  padding: 10px 20px;
-  cursor: pointer;
-  margin: 0 5px;
-  font-size: 16px;
-  transition: background 0.3s, color 0.3s;
-}
-
-.tab.active {
-  background: #0070f3;
-  color: white;
-}
-
-.tab:hover {
-  background: #005bb5;
-  color: white;
-}
-
-.imageSection {
-  display: flex;
-  justify-content: center;
+  flex-direction: column;
   align-items: center;
-  margin-top: 20px;
+  padding-bottom: 20px;
 }
 
-.imageContainer {
-  margin: 0 10px;
+.event-name {
+  display: flex;
+  background-color: #B75B48;
+  width: 80%;
+  align-items: center;
+  font-family: 'Zen Loop';
+  font-size: 36px;
+  color: tan;
+  padding: 20px;
+  border-radius: 15px;
+  border-left: 15px solid brown;
+  border-top: 0px solid white;
+  border-right: 0px solid white;
+  border-bottom: 0px solid white;;
+  z-index: 2;
 }
 
-.image {
-  max-width: 100%;
-  height: auto;
-  border-radius: 8px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+.event-name:hover {
+  background-color: #bc6258;
 }
 
-button {
-  padding: 10px 20px;
-  margin: 0 5px;
-  background-color: #007bff;
-  color: #fff;
-  border: none;
-  border-radius: 3.5px;
-  cursor: pointer;
+.provided-content {
+  position: relative;
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #bc6258;
+  translate: 0px -15px;
+  z-index: 1;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
 }
 
-button:hover {
-  background-color: #0056b3;
+.event-description {
+  font-family: 'Zen-Antique';
+  font-size: 48px;
+  color: tan;
+  padding: 15px;
 }
