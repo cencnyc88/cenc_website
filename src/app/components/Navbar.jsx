@@ -25,20 +25,22 @@ export default function Navbar() {
           </Link>
         </div>
         <div className="projects-tab">
-          <Link href="/projects" className="projects-label">
-            PROJECTS
+          <Link href="/journals" className="projects-label">
+            JOURNALS
           </Link>
         </div>
         <div className='contact-tab'>
-          <Link href="/contact" className="contact-label">
-            CONTACT US
+          <Link href="/about-us" className="contact-label">
+            ABOUT US
           </Link>
         </div>
-        <div className="signup-button">
-          <Link href="/signup" className="signup-label">
-            SIGN UP
-          </Link>
-        </div>
+        <a href="https://forms.gle/wnsQ3qddAEi18fUt7" target="_blank" className='anchor-text'>
+          <button className="signup-button">
+              <div className='signup-label'>
+                SIGN UP
+              </div>
+            </button>
+        </a>
       </div>
     </div>
   );

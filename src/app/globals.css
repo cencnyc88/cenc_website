@@ -92,6 +92,7 @@ body {
   width: 145px;
   height: fit-content;
   box-sizing: border-box;
+  border: 0px;
 }
 
 .signup-label {
@@ -100,6 +101,10 @@ body {
   font-weight: 400;
   font-size: 20px;
   color: #46211A;
+  text-decoration: none;
+}
+
+.anchor-text {
   text-decoration: none;
 }
 

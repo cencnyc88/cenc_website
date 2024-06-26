@@ -1,0 +1,19 @@
+.founder-container {
+    display: flex;
+}
+
+.founder-description {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    font-family: 'Zen Antique';
+    font-size: 18px;
+}
+
+.sig-special {
+    background-color: #B75B48;
+}
+
+.container-5 {
+    padding-left: 10px;
+}
