@@ -10,20 +10,3 @@
     font-weight: 750;
     color: maroon;
 }
-
-/* .imageScrollList {
-    display: flex;
-    overflow-x: scroll;
-    width: 100%;
-    white-space: nowrap;
-}
-
-.scrollImage {
-    width: 100%;
-    height: auto;
-    margin-right: 10px;
-}
-
-.imageScrollList::-webkit-scrollbar {
-    display: none;
-} */
