@@ -8,6 +8,9 @@ export default function Home() {
         <div className="company-name-cn">
           唐人街东邻里委员会
         </div>
+        <div className="mission">
+        The Chinatown East Neighborhood Council (CENC) is organized by a group of community activists, business entrepreneurs, and community leaders.
+        </div>
         <div className="container">
           <div className="mission">
             MISSION
