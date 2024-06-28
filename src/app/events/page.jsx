@@ -9,6 +9,7 @@ export default function page() {
           <hr className='line-break'/>
         </nav>
         <EventsList />
+        <div style={{"height": "200px"}}></div>
       </main>
     );
 }

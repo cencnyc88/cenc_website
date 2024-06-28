@@ -14,6 +14,7 @@ body {
   width: 100%;
   box-sizing: border-box;
   border-bottom: 10px burlywood solid;
+  z-index: 10;
 }
 
 
@@ -131,7 +132,9 @@ body {
   background-color: burlywood;
 }
 
-.events-label:hover, .projects-label:hover, .contact-label:hover {
+.events-label:hover,
+.projects-label:hover,
+.contact-label:hover {
   color: yellow
 }
 
@@ -200,4 +203,3 @@ body {
   font-size: 24px;
   color: #FFFFFF;
 }
-

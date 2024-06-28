@@ -1,3 +1,29 @@
-.pdf-border{
-    border: 3px dashed black
+.images-container {
+    width: 45%;
+    margin: auto;
+    z-index: 0;
 }
+
+.head {
+    padding: 20px;
+    font-size: 24px;
+    font-weight: 750;
+    color: maroon;
+}
+
+/* .imageScrollList {
+    display: flex;
+    overflow-x: scroll;
+    width: 100%;
+    white-space: nowrap;
+}
+
+.scrollImage {
+    width: 100%;
+    height: auto;
+    margin-right: 10px;
+}
+
+.imageScrollList::-webkit-scrollbar {
+    display: none;
+} */

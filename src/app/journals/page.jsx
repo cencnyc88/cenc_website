@@ -1,16 +1,18 @@
 import React from 'react';
+import ImageList from './ImageList';
 
-export default function PDFDisplay() {
+export default function ImageGallery() {
+
     return (
-        <div className="pdf-display">
-            <iframe
-                src="/CENC JOURNAL (2).pdf"
-                width="100%"
-                height="800px"
-                className="pdf-border"
-            >
-            </iframe>
-        </div>
+        <main>
+            <nav>
+                <h1 className='head'>CENC Intern Journals 2023</h1>
+            </nav>
+            <hr style={ { "width": "98%" , "border-color": "maroon", "margin-bottom": "20px"} }></hr>
+            <div className='image-container'>
+                <ImageList />
+            </div>
+        </main>
     );
 }
 
